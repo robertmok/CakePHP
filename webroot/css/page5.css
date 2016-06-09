@@ -1,0 +1,32 @@
+body
+{
+    font-family:Verdana, "Sans-serif"
+} 
+
+h1
+{
+	font-family:Verdana, "Sans-serif";
+	margin-left: 50px;
+}
+
+p
+{
+	margin-left: 50px;
+	width: 90%;
+    padding: 20px;
+    border-radius: 25px;
+    background: #FBE168; 
+    box-shadow: 5px 5px;
+}
+
+#secret
+{
+	text-align: right;
+	font-size: 10px;
+	width: 75%;
+}
+
+img.resize{
+   max-width:50%;
+   max-height:50%;
+}

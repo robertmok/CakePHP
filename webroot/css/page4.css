@@ -1,0 +1,26 @@
+body
+{
+    font-family:Verdana, "Sans-serif"
+} 
+
+table 
+{
+	width: 90%;
+	margin-left: 50px;
+}
+
+#add
+{
+	margin-left: 50px;
+}
+
+h1
+{
+	font-family:Verdana, "Sans-serif";
+	margin-left: 50px;
+}
+
+#tab
+{
+	margin-left: 50px;
+}

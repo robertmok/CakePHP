@@ -1,0 +1,64 @@
+.header{
+    margin-left: 50px;
+    font-family:Verdana, "Sans-serif"
+}
+
+#first .image3
+{
+    position: relative;
+   float: right;
+}
+
+img{
+    z-index:auto;
+}
+.image1{
+    position: relative;
+    left:50px;
+}
+
+.image2{
+    position: relative;
+    left:52px;
+}
+
+.image4{
+    position: relative;
+    left:55px;
+}
+
+.list{
+    margin-left: 50px;
+    width: 60%;
+    padding: 20px;
+    border-radius: 25px;
+    background: #FBE168; 
+    z-index:-150;
+    box-shadow: 5px 5px;
+    font-family:Verdana, "Sans-serif"
+ }
+
+ul
+{
+    list-style-position: inside;
+}
+
+ul#strength {
+    list-style: none;
+}
+
+ul#strength li:before {
+    content: "✓";
+    color: green;
+    margin-right: 9px;
+}
+
+ul#weak {
+    list-style: none;
+}
+
+ul#weak li:before {
+    content: "✘";
+    color: red;
+    margin-right: 9px;
+}
