@@ -6,6 +6,8 @@ There are 5 pages in this project. These pages can be found in this directory:
 
 **/src/Template/Pages/**
 
+---------------------
+
 **Page 1**
 - Homepage
 - Introduction of CakePHP
