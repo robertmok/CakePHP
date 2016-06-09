@@ -2,9 +2,9 @@
 
 This is a project to explore CakePHP framework which is a MVC framework.
 
-There are 5 pages in this project. These pages can be found in this directory:
+**Note:** The files in this repository contains only some of the essentials. It does not contain the entire project files. 
 
-**/src/Template/Pages/**
+There are 5 pages in this project. These pages can be found in this directory: **/src/Template/Pages/**
 
 ---------------------
 
@@ -33,3 +33,8 @@ There are 5 pages in this project. These pages can be found in this directory:
 **Page 5**
 - Credits
 - References
+
+---------------------
+
+CSS can be in this directory: **/webroot/css/**
+
